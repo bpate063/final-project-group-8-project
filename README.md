@@ -21,7 +21,7 @@
  > * For this project, we plan to use C++ within VisualStudioCode and GitHub to track our progress.
  > * For the input, a user will provide a name of a movie that they like and the application will output a list of movies that the user
 might like based on their selection. Using various recommendation algorithms, the resulting recommendations will be sorted based on the movie genre, actors, director, etc.
- > * The features this project provides are listing recommendations based on different criteria and grouping together movies that fall under similar preferences. The user will have the option to type in their own preferences such as a movie title, genre, actors, etc.
+ > * The features of this project include listing recommendations based on different criteria and grouping together movies that fall under similar preferences. The user will have the option to type in their own preferences such as a movie title, genre, actors, etc.
 
  > ## Phase II
  > In addition to completing the "User Interface Specification" and "Class Diagram" sections below, you will need to:
