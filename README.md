@@ -2,15 +2,11 @@
  > As you complete each section you **must** remove the prompt text. Every *turnin* of this project includes points for formatting of this README so keep it clean and keep it up to date. 
  > Prompt text is any lines beginning with "\>"
  > Replace anything between \<...\> with your project specifics and remove angle brackets. For example, you need to name your project and replace the header right below this line with that title (no angle brackets). 
-# Movie Recommender
- > Your author list below should include links to all members GitHub (remove existing author).
- 
+# Movie Recommender 
  > Authors: \<[Navjot Brar](https://github.com/navbraar)\>
  \<[Sanya Jain](https://github.com/sanyajain243)\>
 >  \<[Sakshi Nikte](https://github.com/snikt001)\>
 >  \<[Bansri Patel](https://github.com/bpate063)\>
-
- > You will be forming a group of **FOUR** students and working on an interesting project. The project has 4 phases, each one with specific requirements. A list of proposed project ideas that have been successful in previous quarters is listed in the project specifications document on Canvas. You can select an idea from the list and start thinking about the features you will implement. If you want to propose your own original idea, you will have to contact your instructor to discuss the project and obtain written permission before you submit your project proposal (Phase 1). The project work should be divided almost equally among team members. You can of course help each other, but it needs to be clear who will be responsible for which features. Additionally, you are expected to follow Scrum patterns, specifically the use of a Scrum (Project) board, Sprints, and Scrum meetings.
 
  > ## Expectations
  > * The backend of your project should be implemented in C++. If you wish to choose anoher programming language (e.g. Java, Python), please discuss with your lab TA to obtain permission.
@@ -20,13 +16,12 @@
 > * All project phases are to be submitted to this GitHub repository. You should modify this README file to reflect the different phases of the project. In addition, you should regularly hold sprint meetings with your group. You will need to hold two to three scrum/check-in meetings with your lab TA/reader at different times in addition to the final demo.
 
 ## Project Description
- > This project is based on providing the user with movies that they might like based on preferences and organizing a list of movies based on genres or shared criteria. 
- > * We chose this project because it allows us to understand how the behavior of an application should work based on user preferences and organize data based on criteria that make it easier to understand and navigate. 
+ > This project is based on providing the user with a list movies that they might like based on their inputted preferences and organizing a list of movies based on shared criteria. 
+ > * We chose this project because it allows us to understand how the behavior of an application should work based on the input of a user and organize data in ways that makes it easier to understand and navigate. 
  > * For this project, we plan to use C++ within VisualStudioCode and GitHub to track our progress.
  > * For the input, a user will provide a name of a movie that they like and the application will output a list of movies that the user
-might like based on their selection. Using various recommendation algorithms, the resulting recommendations will be sorted based on their movie genre, actors, director, etc.
- > * The features this project provides are listing recommendations based on different criteria and grouping together movies that fall under similar preferences. The user will have the option to type in their own preferences such as a movie title, genre, subgenre, etc. 
- > * You also need to set up an empty project board using GitHub projects (board view). Make sure you add the board under your project repository. You should also have a Product Backlog and In testing columns added.
+might like based on their selection. Using various recommendation algorithms, the resulting recommendations will be sorted based on the movie genre, actors, director, etc.
+ > * The features this project provides are listing recommendations based on different criteria and grouping together movies that fall under similar preferences. The user will have the option to type in their own preferences such as a movie title, genre, actors, etc.
 
  > ## Phase II
  > In addition to completing the "User Interface Specification" and "Class Diagram" sections below, you will need to:
@@ -39,8 +34,10 @@ might like based on their selection. Using various recommendation algorithms, th
  >   * The second check-in should be scheduled with a reader. During that meeting you will discuss:
  >     * The tasks you are planning for the first sprint
  >     * How work will be divided between the team members
+
 ## User Interface Specification
  > Include a navigation diagram for your screens and the layout of each of those screens as desribed below. For all the layouts/diagrams, you can use any tool such as PowerPoint or a drawing program. (Specification requirement is adapted from [this template](https://redirect.cs.umbc.edu/~mgrass2/cmsc345/Template_UI.doc))
+> You also need to set up an empty project board using GitHub projects (board view). Make sure you add the board under your project repository. You should also have a Product Backlog and In testing columns added.
 
 ### Navigation Diagram
 > Draw a diagram illustrating how the user can navigate from one screen to another. Here is an [example](https://creately.com/diagram/example/ikfqudv82/user-navigation-diagram-classic?r=v). It can be useful to label each symbol that represents a screen so that you can reference the screens in the next section or the rest of the document if necessary. Give a brief description of what the diagram represents.
