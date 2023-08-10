@@ -21,11 +21,11 @@
 
 ## Project Description
  > This project is based on providing the user with movies that they might like based on preferences and organizing a list of movies based on genres or shared criteria. 
- > * We chose this project because it allows us to understand how the behavior of an application should work based on user preferences and organize data based on criteria that makes it easier to understand and naviagte. 
- > * For this project, we plan to use C++ within VisualStudioCode and GitHub to track our progress/ 
+ > * We chose this project because it allows us to understand how the behavior of an application should work based on user preferences and organize data based on criteria that make it easier to understand and navigate. 
+ > * For this project, we plan to use C++ within VisualStudioCode and GitHub to track our progress.
  > * For the input, a user will provide a name of a movie that they like and the application will output a list of movies that the user
-might like based on their selection. Using various recommendation algorithms, the resulting recommendations will be sorted based on their rating, release date, etc.
- > * The features this project provides is listing recommendations based on different criterias and grouping together movies that fall under simillar preferences. The user will have the option to type in their own preferences such as a movie title, genre, subgenre, etc. 
+might like based on their selection. Using various recommendation algorithms, the resulting recommendations will be sorted based on their movie genre, actors, director, etc.
+ > * The features this project provides are listing recommendations based on different criteria and grouping together movies that fall under similar preferences. The user will have the option to type in their own preferences such as a movie title, genre, subgenre, etc. 
  > * You also need to set up an empty project board using GitHub projects (board view). Make sure you add the board under your project repository. You should also have a Product Backlog and In testing columns added.
 
  > ## Phase II
