@@ -20,14 +20,14 @@
 > * All project phases are to be submitted to this GitHub repository. You should modify this README file to reflect the different phases of the project. In addition, you should regularly hold sprint meetings with your group. You will need to hold two to three scrum/check-in meetings with your lab TA/reader at different times in addition to the final demo.
 
 ## Project Description
- > This project is based on the popular games of blackjack and Go Fish! that are widely played across the world. 
- > * We chose this project because card games are a basic part of life and something many people grew up playing. The games we selected for this app have simple enough rules that anyone could play them.(Why is it important or interesting to you?)
- > * C++ (What languages/tools/technologies do you plan to use? (This list may change over the course of the project))
- > * Upon booting up the user is prompted to select which game they would like to play. Based on the selection the user enters different games. In blackjack, after dealing the initial 2 cards the user will be prompted with the simple decision to either hit or stay, with the output telling the user the value of the card they drew and whether they win after the dealer's cards are revealed. (What will be the input/output of your project?)
- > * The project will give the user the option to play one of (two?) card games (and keep track of total wins and losses? implement if we have time)(What are the features that the project provides?)
- > This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
- > 
- > You also need to set up an empty project board using GitHub projects (board view). Make sure you add the board under your project repository. You should also have a Product Backlog and In testing columns added.
+ > This project is based on providing the user with movies that they might like based on preferences and organizing a list of movies based on genres or shared criteria. 
+ > * We chose this project because it allows us to understand how the behavior of an application should work based on user preferences and organize data based on criteria that makes it easier to understand and naviagte. 
+ > * For this project, we plan to use C++ within VisualStudioCode and GitHub to track our progress/ 
+ > * For the input, a user will provide a name of a movie that they like and the application will output a list of movies that the user
+might like based on their selection. Using various recommendation algorithms, the resulting recommendations will be sorted based on their rating, release date, etc.
+ > * The features this project provides is listing recommendations based on different criterias and grouping together movies that fall under simillar preferences. The user will have the option to type in their own preferences such as a movie title, genre, subgenre, etc. 
+ > * You also need to set up an empty project board using GitHub projects (board view). Make sure you add the board under your project repository. You should also have a Product Backlog and In testing columns added.
+
  > ## Phase II
  > In addition to completing the "User Interface Specification" and "Class Diagram" sections below, you will need to:
  > * Create an "Epic" (note) for each feature. Place these epics in the `Product Backlog` column
