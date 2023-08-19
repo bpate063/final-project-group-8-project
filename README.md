@@ -36,13 +36,10 @@ might like based on their selection. Using various recommendation algorithms, th
  >     * How work will be divided between the team members
 
 ## User Interface Specification
-
 ### Navigation Diagram
-> Draw a diagram illustrating how the user can navigate from one screen to another. Here is an [example](https://creately.com/diagram/example/ikfqudv82/user-navigation-diagram-classic?r=v). It can be useful to label each symbol that represents a screen so that you can reference the screens in the next section or the rest of the document if necessary. Give a brief description of what the diagram represents.
-> The diagram represents how a user would traverse the program, starting from the welcome screen which asks the user for the name of a movie they enjoy, followed by a list of options to select the criteria to find similar movies. After the user has selected the criteria(s) they like, they are shown movies similar to the one they chose based on the criteria they selected.
+> [Add Diagram here] The diagram represents how a user would traverse the program, starting from the welcome screen which asks the user for the name of a movie they enjoy, followed by a list of options to select the criteria to find similar movies. After the user has selected the criteria(s) they like, they are shown movies similar to the one they chose based on the criteria they selected.
 
 ### Screen Layouts
-> Include the layout of each of your screens. The layout should describe the screen’s major components such as menus and prompts for user inputs, expected output, and buttons (if applicable). Explain what is on the layout, and the purpose of each menu item, button, etc. If many screens share the same layout, start by describing the general layout and then list the screens that will be using that layout and the differences between each of them.
 > When running the program, the first screen welcomes the user to the movie recommender and prompts them for the name of a movie the user enjoys. The user will then type in the name of a movie they enjoy which will be taken in as user input. In the event that the name of the movie the user inputs does not exist in the recommenders movie list, the screen will display an apology and then prompt the user for the name of a different movie. After entering the name of a movie the recommender does contain, the user sees a screen with a list of letters on the screen where each letter corresponds to options such as 'Genre', 'Rating', 'Lead Actor', 'Director' which the recommender will base its suggestions on. The user has the option to select just one or multiple of the criteria depending on how much they would like to narrow down their search. After selecting the criteria, the user will be shown a list of movies based on their selections and the program will terminate.
 
 ## Class Diagram
