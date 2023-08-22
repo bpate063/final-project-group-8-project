@@ -55,21 +55,30 @@ int main() {
 
     else if (userCriteria.find('B') != string::npos) {
         cout << "Please select the rating you would like your movie to be\n";
-        cout << "1-- PG\n" << "2-- PG-13\n" << "3-- R\n";
+        cout << "1-- G\n" << "2-- PG\n" << "3-- PG-13\n" << "4-- R\n";
         
         int chosenRating = 0;
         cin >> chosenRating;
 
         if (chosenRating == 1) {
+            //add G movies to output
+        }
+
+        else if (chosenRating == 2) {
             //add PG movies to output
         }
 
-        if (chosenRating == 2) {
+        else if (chosenRating == 3) {
             //add PG-13 movies to output
         }
 
-        if (chosenRating == 3) {
+        else if (chosenRating == 4) {
             //add R movies to output
+        }
+
+        else {
+            cout << "Please enter a valid rating.\n";
+            return 0;
         }
     }
 
