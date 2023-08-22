@@ -44,9 +44,8 @@ might like based on their selection. Using various recommendation algorithms, th
 > When running the program, the first screen welcomes the user to the movie recommender and prompts them to select a category through a menu with the options being by 'Genre', 'Rating', 'Lead Actor', and 'Director'. If the user selects 'Genre', the user is taken to a screen which prompts them to select the genre from a list of different genres. For every other category the user is prompted to type in either a rating, name of an actor, or the name of a director in order to see movies that follow that criteria. After the user is done selecting, they are presented with a list of movies based on the criteria they selected.
 
 ## Class Diagram
- > Include a **class diagram(s)** for your project and a **description** of the diagram(s). Your class diagram(s) should include all the main classes you plan for the project. This should be in sufficient detail that another group could pick up the project this point and successfully complete it. Use proper UML notation (as discussed in the course slides).
-> ![Blank diagram](https://github.com/cs100/final-project-group-8-project/assets/100013790/bc578f7f-f43e-473e-ae65-eded1971cc78)
-> Each movie has a director and lead actor. Users can have multiple recommendations and each recommendation is associated with a user and a movie. 
+> ![Blank diagram (1)](https://github.com/cs100/final-project-group-8-project/assets/100013790/f418d5e7-89dc-4ed8-8096-8b76bc7400dd)
+> Each movie has a director, lead actor, genre, and rating. Based on the criteria chosen by the user, a movie is updated as a recommendation. Each recommendation is still associated with a user and movie. 
 
 
  > ## Phase III
