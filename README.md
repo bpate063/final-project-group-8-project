@@ -36,18 +36,18 @@ might like based on their selection. Using various recommendation algorithms, th
  >     * How work will be divided between the team members
 
 ## User Interface Specification
- > Include a navigation diagram for your screens and the layout of each of those screens as desribed below. For all the layouts/diagrams, you can use any tool such as PowerPoint or a drawing program. (Specification requirement is adapted from [this template](https://redirect.cs.umbc.edu/~mgrass2/cmsc345/Template_UI.doc))
-> You also need to set up an empty project board using GitHub projects (board view). Make sure you add the board under your project repository. You should also have a Product Backlog and In testing columns added.
-
 ### Navigation Diagram
-> Draw a diagram illustrating how the user can navigate from one screen to another. Here is an [example](https://creately.com/diagram/example/ikfqudv82/user-navigation-diagram-classic?r=v). It can be useful to label each symbol that represents a screen so that you can reference the screens in the next section or the rest of the document if necessary. Give a brief description of what the diagram represents.
+> ![Screenshot 2023-08-19 191828](https://github.com/cs100/final-project-group-8-project/assets/138830479/24f552b8-1bd9-44b7-ba6e-99acc77230ef)
+> The diagram represents how a user would traverse the program, starting from the welcome screen which asks the user to select a category, followed by a prompt to narrow down their choice even more, this can be through another menu or through a user input string.
 
 ### Screen Layouts
-> Include the layout of each of your screens. The layout should describe the screen’s major components such as menus and prompts for user inputs, expected output, and buttons (if applicable). Explain what is on the layout, and the purpose of each menu item, button, etc. If many screens share the same layout, start by describing the general layout and then list the screens that will be using that layout and the differences between each of them.
+> When running the program, the first screen welcomes the user to the movie recommender and prompts them to select a category through a menu with the options being by 'Genre', 'Rating', 'Lead Actor', and 'Director'. If the user selects 'Genre', the user is taken to a screen which prompts them to select the genre from a list of different genres. For every other category the user is prompted to type in either a rating, name of an actor, or the name of a director in order to see movies that follow that criteria. After the user is done selecting, they are presented with a list of movies based on the criteria they selected.
 
 ## Class Diagram
- > Include a **class diagram(s)** for your project and a **description** of the diagram(s). Your class diagram(s) should include all the main classes you plan for the project. This should be in sufficient detail that another group could pick up the project this point and successfully complete it. Use proper UML notation (as discussed in the course slides).
- 
+> ![Blank diagram (1)](https://github.com/cs100/final-project-group-8-project/assets/100013790/f418d5e7-89dc-4ed8-8096-8b76bc7400dd)
+> Each movie has a director, lead actor, genre, and rating. Based on the criteria chosen by the user, a movie is updated as a recommendation. Each recommendation is still associated with a user and movie. 
+
+
  > ## Phase III
  > You will need to schedule a check-in for the second scrum meeting with the same reader you had your first scrum meeting with (using Calendly). Your entire team must be present. This meeting will occur on week 8 during lab time.
  
