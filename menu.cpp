@@ -14,7 +14,7 @@ int main() {
 
     if (userCriteria.find('A') != string::npos) {
         cout << "Please select what genre you are interested in.\n";
-        cout << "1-- Comedy \n" << "2-- Action\n" << "3-- Classic\n" << "4-- Horror\n" << "5-- Romance\n" << "6-- Animated\n" << "7-- Documentary\n";
+        cout << "1-- Comedy \n" << "2-- Action\n" << "3-- Classic\n" << "4-- Horror\n" << "5-- Romance\n" << "6-- Animated\n";
 
         int chosenGenre = 0;
         cin >> chosenGenre;
@@ -42,12 +42,8 @@ int main() {
         if (chosenGenre == 6) {
             //display animated movies
         }
-        
-        if (chosenGenre == 7) {
-            //display documentaries
-        }
 
-        if (chosenGenre <= 0 || chosenGenre >= 8) {
+        if (chosenGenre <= 0 || chosenGenre >= 7) {
             cout << "Please choose a valid input\n";
             return 0;
         }
