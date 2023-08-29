@@ -1,45 +1,44 @@
-Action
-Comedy
-Action
-Action
-Action
-Action 
-Action
-Action 
-Action
-Comedy
-Comedy
-Comedy
-Comedy
-Comedy
-Classics
-Classics
-Classics
-Classics
-Classics
-Classics
-Horror
-Horror
-Horror
-Horror
-Horror
-Horror
-Horror
-Thrillers
-Thrillers
-Thrillers
-Thrillers
-Thrillers
-Thrillers
-Romantic
-Romantic
-Romantic
-Romantic
-Romantic
-Romantic
-Romantic
-Animated
-Animated
-Animated
-Animated
-Animated
+2, The Road Warrior (1981)
+1, What Women Want (2000)
+2, Aliens (1986) 
+2, Colombiana (2011)
+2, The Terminator (1984)
+2, Avatar: The Way of Water (2022)
+2, Terminator 2: Judgment Day (1991)
+2, Behind Enemy Lines (2001)  
+2, Die Hard (1988) 
+1, Some Like It Hot (1959)
+1, The Seven Year Itch (1955)
+1, How To Marry a Millionaire (1953)
+1, Three Coins in the Fountain (1954)
+1, Any Wednesday (1966) 
+3, The Godfather (1972)
+3, Breakfast at Tiffany’s (1961)
+3, Apocalypse Now (1979)
+3, A Shot in the Dark (1964)
+3, The Pink Panther (1963)
+3, Wall Street (1987)
+4, The Host (2006)
+4, Parasite (2019)
+4, It (2017)
+4, Zombieland (2009)
+4, Venom (2018)
+4, Minotaur (2006)
+4, Ironclad (2011)
+7, Meg (2018)
+7, The Fate of the Furious (2017)
+7, Skyscraper (2018)
+7, Mission Impossible (1996)
+7, Mission to Mars (2000)
+7, Insidious: The Red Door (2023)
+5, The Notebook (2004)
+5, Pretty Woman (1990)
+5, Runaway Bride (1999)
+5, Clueless (1995)
+5, Excess Baggage (1997)
+5, Love Actually (2003)
+6, Snow White and the Seven Dwarfs (1937)
+6, Fantasia (1940)
+6, Beauty and the Beast (1991)
+6, Cinderella (2015)
+6, Toy Story (1995)

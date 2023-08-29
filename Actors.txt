@@ -1,45 +1,113 @@
-Mel Gibson, Virginia Hey 
-Mel Gibson, Helen Hunt, Marisa Tomei
-Michael Biehn, Sigourney Weaver
-Zoe Saldana, Amandla Stenberg
-Michael Biehn, Arnold Schwarzenegger 
-Sam Worthington, Zoe Saldana 
-Edward Furlong, Lisa Hamilton 
-Owen Wilson, Gene Hackman
-Bruce Willis, Alan Rickman
-Marilyn Monroe, Tony Curtis, Jack Lemmon
-Marilyn Monroe, Tom Ewell, Sonny Tufts
-Marilyn Monroe, Lauren Bacall, Betty Grable
-Jean Peters, Dorothy McGuire, Clifton Webb
-Jean Peters, Jane Fonda
-Marlon Brando, Al Pacino, Robert De Niro
-Audrey Hepburn, George Peppard, Mickey Rooney
-Marlon Brando, Martin Sheen, Dennis Hopper
-Peter Sellers, Herbert Lom, Elke Sommer
-Peter Sellers, David Ninen
-Martin Sheen, Michael Douglas, Charlie Sheen
-Saoirse Ronan, Max Irons, Frances Fisher
-Cho Yeo-jeong, Choi Woo-shik, Park So-dam
-Bill Skarsgard, Finn Wolfhard, Jack Dylan Grazer
-Emma Stone, Zoey Deutch, Abigail Breslin
-Tom Hardy, Michelle Williams, Jenny State
-Tom Hardy, Tony Todd
-Paul Giamatti, James Purefoy
-Jason Statham, Li Bingbing, Ruby Rose
-Jason Statham, Dwayne Johnson, Vin Diesel
-Dwayne Johnson, Neve Campbell, Chin Han
-Tom Cruise, Emmanuelle Bert, Jon Voight
-Gary Sinise, Tim Robbins, Jill Teed 
-Patrick Wilson, James Wan, Ty Simpkins
-Ryan Gosling, Rachel McAdams
-Ryan Gosling, Lio Tipton
-Julia Roberts, Richard Gere
-Julia Roberts, Richard Gere
-Alicia Silverstone, Paul Rudd, Brittany Murphy
-Alicia Silverstone, Benicio Del Toro, Christopher Walken
-Hugh Grant, Colin Firth
-Adriana Caselotti, Eddie Collins
-Ben Sharpsteen, Leopold Stokowski
-Paige O’Hara, Robby Benson, Jesse Corti
-Lily James, Richard Madden 
-Tom Hanks, Tim Allen, Andrew Stanton
+Mel Gibson, The Road Warrior (1981)
+Virginia Hey, The Road Warrior (1981)
+Mel Gibson, What Women Want (2000)
+Helen Hunt, What Women Want (2000)
+Marisa Tomei, What Women Want (2000)
+Michael Biehn, Aliens (1986) 
+Sigourney Weaver, Aliens (1986) 
+Zoe Saldana, Colombiana (2011)
+Amandla Stenberg, Colombiana (2011)
+Michael Biehn, The Terminator (1984)
+Arnold Schwarzenegger, The Terminator (1984) 
+Sam Worthington, Avatar: The Way of Water (2022)
+Zoe Saldana, Avatar: The Way of Water (2022)
+Edward Furlong, Terminator 2: Judgment Day (1991)
+Lisa Hamilton, Terminator 2: Judgment Day (1991)
+Owen Wilson, Behind Enemy Lines (2001) 
+Gene Hackman, Behind Enemy Lines (2001) 
+Bruce Willis, Die Hard (1988) 
+Alan Rickman, Die Hard (1988) 
+Marilyn Monroe, Some Like It Hot (1959)
+Tony Curtis, Some Like It Hot (1959)
+Jack Lemmon, Some Like It Hot (1959)
+Marilyn Monroe, The Seven Year Itch (1955)
+Tom Ewell, The Seven Year Itch (1955)
+Sonny Tufts, The Seven Year Itch (1955)
+Marilyn Monroe, How To Marry a Millionaire (1953)
+Lauren Bacall, How To Marry a Millionaire (1953)
+Betty Grable, How To Marry a Millionaire (1953)
+Jean Peters, Three Coins in the Fountain (1954)
+Dorothy McGuire, Three Coins in the Fountain (1954)
+Clifton Webb, Three Coins in the Fountain (1954)
+Jean Peters, Any Wednesday (1966) 
+Jane Fonda, Any Wednesday (1966) 
+Marlon Brando, The Godfather (1972)
+Al Pacino, The Godfather (1972)
+Robert De Niro, The Godfather (1972)
+Audrey Hepburn, Breakfast at Tiffany’s (1961)
+George Peppard, Breakfast at Tiffany’s (1961)
+Mickey Rooney, Breakfast at Tiffany’s (1961)
+Marlon Brando, Apocalypse Now (1979)
+Martin Sheen, Apocalypse Now (1979)
+Dennis Hopper, Apocalypse Now (1979)
+Peter Sellers, A Shot in the Dark (1964)
+Herbert Lom, A Shot in the Dark (1964)
+Elke Sommer, A Shot in the Dark (1964)
+Peter Sellers, The Pink Panther (1963)
+David Ninen, The Pink Panther (1963)
+Martin Sheen, Wall Street (1987)
+Michael Douglas, Wall Street (1987)
+Charlie Sheen, Wall Street (1987)
+Saoirse Ronan, The Host (2006)
+Max Irons, The Host (2006)
+Frances Fisher, The Host (2006)
+Cho Yeo-jeong, Parasite (2019)
+Choi Woo-shik, Parasite (2019)
+Park So-dam, Parasite (2019)
+Bill Skarsgard, It (2017)
+Finn Wolfhard, It (2017)
+Jack Dylan Grazer, It (2017)
+Emma Stone, Zombieland (2009)
+Zoey Deutch, Zombieland (2009)
+Abigail Breslin, Zombieland (2009)
+Tom Hardy, Venom (2018)
+Michelle Williams, Venom (2018)
+Jenny State, Venom (2018)
+Tom Hardy, Minotaur (2006)
+Tony Todd, Minotaur (2006)
+Paul Giamatti, Ironclad (2011)
+James Purefoy, Ironclad (2011)
+Jason Statham, Meg (2018)
+Li Bingbing, Meg (2018)
+Ruby Rose, Meg (2018)
+Jason Statham, The Fate of the Furious (2017)
+Dwayne Johnson, The Fate of the Furious (2017)
+Vin Diesel, The Fate of the Furious (2017)
+Dwayne Johnson, Skyscraper (2018)
+Neve Campbell, Skyscraper (2018)
+Chin Han, Skyscraper (2018)
+Tom Cruise, Mission Impossible (1996)
+Emmanuelle Bert, Mission Impossible (1996)
+Jon Voight, Mission Impossible (1996)
+Gary Sinise, Mission to Mars (2000)
+Tim Robbins, Mission to Mars (2000)
+Jill Teed, Mission to Mars (2000)
+Patrick Wilson, Insidious: The Red Door (2023)
+James Wan, Insidious: The Red Door (2023)
+Ty Simpkins, Insidious: The Red Door (2023)
+Ryan Gosling, The Notebook (2004)
+Rachel McAdams, The Notebook (2004)
+Julia Roberts, Pretty Woman (1990)
+Richard Gere, Pretty Woman (1990)
+Julia Roberts, Runaway Bride (1999)
+Richard Gere, Runaway Bride (1999)
+Alicia Silverstone, Clueless (1995)
+Paul Rudd, Clueless (1995)
+Brittany Murphy, Clueless (1995)
+Alicia Silverstone, Excess Baggage (1997)
+Benicio Del Toro, Excess Baggage (1997)
+Christopher Walken, Excess Baggage (1997)
+Hugh Grant, Love Actually (2003)
+Colin Firth, Love Actually (2003)
+Adriana Caselotti, Snow White and the Seven Dwarfs (1937)
+Eddie Collins, Snow White and the Seven Dwarfs (1937)
+Ben Sharpsteen, Fantasia (1940)
+Leopold Stokowski, Fantasia (1940)
+Paige O’Hara, Beauty and the Beast (1991)
+Robby Benson, Beauty and the Beast (1991)
+Jesse Corti, Beauty and the Beast (1991)
+Lily James, Cinderella (2015)
+Richard Madden, Cinderella (2015)
+Tom Hanks, Toy Story (1995)
+Tim Allen, Toy Story (1995)
+Andrew Stanton, Toy Story (1995)
