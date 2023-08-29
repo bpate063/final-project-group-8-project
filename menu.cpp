@@ -1,5 +1,8 @@
 #include <iostream>
 #include <string>
+// #include "genre.cpp"
+// #include "actors.h"
+#include "actors.cpp"
 
 using namespace std;
 
@@ -12,85 +15,57 @@ int main() {
     string userCriteria = "";
     cin >> userCriteria;
 
-    if (userCriteria.find('A') != string::npos) {
-        cout << "Please select what genre you are interested in.\n";
-        cout << "1-- Comedy \n" << "2-- Action\n" << "3-- Classic\n" << "4-- Horror\n" << "5-- Romance\n" << "6-- Animated\n";
+    // if (userCriteria.find('A') != string::npos) {
+    //     Genre genre;
+    //     std::vector<std::string> titleRecs = genre.getMovieByGenre();
 
-        int chosenGenre = 0;
-        cin >> chosenGenre;
+    //     cout << "Some movies that fall under that category are listed below.\n";
 
-        if (chosenGenre == 1) {
-            //display comedy movies
+    //     for (int i = 0; i < titleRecs.size(); i++) {
+    //         cout << titleRecs.at(i) << endl;
+    //     }
+
+    //     cout << "Enjoy your movie!\n";
+    // }
+
+    // else if (userCriteria.find('B') != string::npos) {
+    //     Genre genre;
+    //     std::vector<std::string> titleRecs = genre.getMovieByRating();
+
+    //     cout << "Some movies that fall under that category are listed below.\n";
+
+    //     for (int i = 0; i < titleRecs.size(); i++) {
+    //         cout << titleRecs.at(i) << endl;
+    //     }
+
+    //     cout << "Enjoy your movie!\n";
+    // }
+
+    if (userCriteria.find('C') != string::npos) {
+        Actors actor;
+        std::vector<std::string> titleRecs = actor.getMovieByActors();
+
+        cout << "Some movies that fall under that category are listed below.\n";
+
+        for (int i = 0; i < titleRecs.size(); i++) {
+            cout << titleRecs.at(i) << endl;
         }
 
-        if (chosenGenre == 2) {
-            //display action movies
-        }
-
-        if (chosenGenre == 3) {
-            //display classic movies
-        }
-
-        if (chosenGenre == 4) {
-            //display horror movies
-        }
-        
-        if (chosenGenre == 5) {
-            //display Romance movies
-        }
-
-        if (chosenGenre == 6) {
-            //display animated movies
-        }
-
-        if (chosenGenre <= 0 || chosenGenre >= 7) {
-            cout << "Please choose a valid input\n";
-            return 0;
-        }
+        cout << "Enjoy your movie!\n";
     }
 
-    else if (userCriteria.find('B') != string::npos) {
-        cout << "Please select the rating you would like your movie to be\n";
-        cout << "1-- G\n" << "2-- PG\n" << "3-- PG-13\n" << "4-- R\n";
-        
-        int chosenRating = 0;
-        cin >> chosenRating;
+    // else if (userCriteria.find('D') != string::npos) {
+    //     Genre genre;
+    //     std::vector<std::string> titleRecs = genre.getMovieByDirector();
 
-        if (chosenRating == 1) {
-            //add G movies to output
-        }
+    //     cout << "Some movies that fall under that category are listed below.\n";
 
-        else if (chosenRating == 2) {
-            //add PG movies to output
-        }
+    //     for (int i = 0; i < titleRecs.size(); i++) {
+    //         cout << titleRecs.at(i) << endl;
+    //     }
 
-        else if (chosenRating == 3) {
-            //add PG-13 movies to output
-        }
-
-        else if (chosenRating == 4) {
-            //add R movies to output
-        }
-
-        else {
-            cout << "Please enter a valid rating.\n";
-            return 0;
-        }
-    }
-
-    else if (userCriteria.find('C') != string::npos) {
-        cout << "Which Actor's movies are you interested in\n";
-        string actorName = "";
-        cin >> actorName;
-        cout << "Some movies with " << actorName << " are:\n";
-    }
-
-    else if (userCriteria.find('D') != string::npos) {
-        cout << "Which director's movies are you interested in\n";
-        string directorName = "";
-        cin >> directorName;
-        cout << "Some movies by " << directorName << " are:\n";
-    }
+    //     cout << "Enjoy your movie!\n";
+    // }
 
     else {
         cout << userCriteria << " is not a valid option\n" << "Please try again.";

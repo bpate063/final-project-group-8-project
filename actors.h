@@ -1,17 +1,17 @@
 #ifndef ACTORS_H
 #define ACTORS_H
-
-#include "movie.h"
+#include <vector>
+#include <string>
 
 using namespace std;
 
-class Actors : public Movie {
+class Actors {
     private:
         string actor;
         string title;
 
-    public: 
-        virtual string getMovie();
+    public:
+        std::vector<std::string> getMovieByActors();
 };
 
 #endif //ACTORS_H
